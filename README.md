@@ -47,6 +47,7 @@ El objetivo principal es comprender el comportamiento del mercado, identificar p
 - **Noviembre presenta el mayor volumen de ventas** → fuerte estacionalidad por compras navideñas.
 - La mayor actividad ocurre entre **10:00 y 15:00 hrs**, indicando ventanas óptimas para campañas.
 - Reino Unido concentra la gran mayoría de ingresos → oportunidades en expansión internacional.
+- Mapa de calor revela picos de ventas los **Lunes a Viernes**, además refleja baja actividad los fines de semana, y despues de las 17:00.
 
 ---
 
@@ -57,6 +58,7 @@ El objetivo principal es comprender el comportamiento del mercado, identificar p
 - Cross-selling durante horas con actividad pico
 - Reactivación de clientes con alta recency
 - Potencial de expansión comercial hacia Europa: DE / FR / ES
+- Enfocarse en promociones, email marketing y lanzamientos de productos entre semana en el bloque 9–14h, cuando la conversión es más alta.
 
 ---
 
