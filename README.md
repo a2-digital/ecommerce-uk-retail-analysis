@@ -65,12 +65,12 @@ El objetivo principal es comprender el comportamiento del mercado, identificar p
 ## ▶ Cómo Ejecutar el Proyecto
 
 ```bash
-git clone https://github.com/andres/ecommerce-uk-retail-data-project.git
-cd ecommerce-uk-retail-data-project
+git clone https://github.com/a2-digital/ecommerce-uk-retail-analysis.git
+cd ecommerce-uk-retail-analysis
 
 pip install -r requirements.txt
 
-jupyter notebook notebooks/UK_Online_Retail_Report.ipynb
+jupyter notebook notebook/UK_Online_Retail_Report.ipynb
 ```
 
 ---
@@ -80,4 +80,8 @@ jupyter notebook notebooks/UK_Online_Retail_Report.ipynb
 Andrés Aranguren  
 📍 Bogotá, Colombia  
 📫 andresdal090@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/andres-aranguren/)
+🔗 [LinkedIn](https://www.linkedin.com/in/andres-aranguren-b758a3211/)
+
+
+### Nota de revisión y límites de interpretación
+El CSV contiene 541.909 líneas originales y 397.884 tras los filtros, correspondientes a 18.532 facturas y 4.338 clientes. Una fila no equivale a una compra completa. No hay datos de visitas para calcular conversión; las franjas de ventas son candidatas a experimentos, no evidencia de eficacia de campañas. La expansión requiere evaluar demanda, costes y rentabilidad.
